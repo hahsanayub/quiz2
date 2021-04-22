@@ -23,7 +23,7 @@ public class Second_activity extends AppCompatActivity {
             TextView textView = findViewById(R.id.text_view);
             textView.setText("Name:   "+name+System.getProperty("line.separator")+
                     "Father Name:   "+father_name+System.getProperty("line.separator")+
-                    "CNIC:  "+cnic+System.getProperty("line.separator")+
+                    "CNIC:   "+cnic+System.getProperty("line.separator")+
                     "Phone Number:  "+phone_number+System.getProperty("line.separator")+
                     "Address:  "+address+System.getProperty("line.separator"));
         }
